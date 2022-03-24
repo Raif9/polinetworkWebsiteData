@@ -167,7 +167,9 @@ staff:
     roles:
       - id: c12
         nomination-date: 2019-10-29
-        expiration-date: 2022-05-31
+        expiration-date: 2021-04-26
+      - id: c12
+        nomination-date: 2022-06-03
   - name: Andrea Corcella
     nickname: andre_crc
     roles:
@@ -184,7 +186,9 @@ staff:
     roles:
       - id: c15
         nomination-date: 2019-10-29
-        expiration-date: 2022-06-03
+        expiration-date: 2021-04-26
+      - id: c15
+        nomination-date: 2022-06-03
   - name: Giada Martinoia
     nickname: Giada_Martinoia
     roles:
@@ -215,9 +219,8 @@ staff:
     roles:
       - id: c22
         nomination-date: 2021-03-16
-        expiration-date: 2021-03-16
       - id: c22        
-        nomination-date: 2021-03-16
+        nomination-date: 2021-03-23
   - name: Pier Ombrini
     nickname: PierOmbrini
     roles:
@@ -293,7 +296,6 @@ staff:
     roles:
       - id: c1
         nomination-date: 2022-01-03
-        expiration-date: 3000-01-01
     nickname: babovic_jovana
     roles:
       - id: c11
